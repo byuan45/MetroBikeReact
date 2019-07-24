@@ -1,0 +1,38 @@
+[
+    {
+        "Trip ID": "1912818",
+        "Duration": "180",
+        "Start Time": "2016-07-07T04:17:00",
+        "End Time": "2016-07-07T04:20:00",
+        "Starting Station ID": "3014",
+        "Starting Station Latitude": "34.0566101",
+        "Starting Station Longitude": "-118.23721",
+        "Ending Station ID": "3014",
+        "Ending Station Latitude": "34.0566101",
+        "Ending Station Longitude": "-118.23721",
+        "Bike ID": "6281",
+        "Plan Duration": "30",
+        "Trip Route Category": "Round Trip",
+        "Passholder Type": "Monthly Pass",
+        "Starting Lat-Long": "{'longitude': '-118.23721', 'latitude': '34.0566101', 'needs_recoding': False}",
+        "Ending Lat-Long": "{'longitude': '-118.23721', 'latitude': '34.0566101', 'needs_recoding': False}"
+    },
+    {
+        "Trip ID": "1919661",
+        "Duration": "1980",
+        "Start Time": "2016-07-07T06:00:00",
+        "End Time": "2016-07-07T06:33:00",
+        "Starting Station ID": "3014",
+        "Starting Station Latitude": "34.0566101",
+        "Starting Station Longitude": "-118.23721",
+        "Ending Station ID": "3014",
+        "Ending Station Latitude": "34.0566101",
+        "Ending Station Longitude": "-118.23721",
+        "Bike ID": "6281",
+        "Plan Duration": "30",
+        "Trip Route Category": "Round Trip",
+        "Passholder Type": "Monthly Pass",
+        "Starting Lat-Long": "{'longitude': '-118.23721', 'latitude': '34.0566101', 'needs_recoding': False}",
+        "Ending Lat-Long": "{'longitude': '-118.23721', 'latitude': '34.0566101', 'needs_recoding': False}"
+    }
+]
